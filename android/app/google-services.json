@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95750477404",
+    "firebase_url": "https://flutterface-ccbea.firebaseio.com",
+    "project_id": "flutterface-ccbea",
+    "storage_bucket": "flutterface-ccbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95750477404:android:8d43471c4066a8fb",
+        "android_client_info": {
+          "package_name": "com.example.flutterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95750477404-janc2drucjfs6pb8k34298vnibol0ira.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshqQxZilO2_qtaAsHQTSW6q8snh04iAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95750477404-janc2drucjfs6pb8k34298vnibol0ira.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
