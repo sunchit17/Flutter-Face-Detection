@@ -1,6 +1,10 @@
-# flutterface
+# Flutter-Face-Detection
 
-Face Detection in Flutter
+Face Detection in Flutter using Firebase MLKit.
+
+User gets the option to select an image from the gallery.
+
+Face Co-ordinates and Smile Probability are seamlessly displayed after image processing.
 
 ## Getting Started
 
